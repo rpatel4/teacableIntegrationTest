@@ -563,6 +563,6 @@ margin-top: 15px;
 
 /*progress bar*/
 .progressbar{
-    margin-bottom: 0px !important; 
+    margin-bottom: 0px; 
     margin-top: 8px;
 }
