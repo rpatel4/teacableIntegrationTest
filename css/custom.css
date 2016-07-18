@@ -561,3 +561,8 @@ margin-top: 15px;
 .icon-mod-1:hover:after {
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg);
+
+/*progress bar*/
+.progressbar{
+        margin-bottom: 0px !important; 
+}
