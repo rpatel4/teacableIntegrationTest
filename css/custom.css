@@ -567,3 +567,9 @@ margin-top: 15px;
     margin-bottom: 0px; 
     margin-top: 8px;
 }
+.courseSidebar-nav{
+    list-style-type:none;
+}
+ul.courseSidebar-nav li{
+    padding:30px;
+}
