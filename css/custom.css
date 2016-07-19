@@ -561,15 +561,24 @@ margin-top: 15px;
 .icon-mod-1:hover:after {
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg);
-
+}
 /*progress bar*/
 .progressbar{
     margin-bottom: 0px; 
     margin-top: 8px;
 }
-.courseSidebar-nav{
-    list-style-type:none !important;
+ul.courseSidebar-nav li {
+    padding: 20px;
+    border: 1px solid grey;
+    background: rgb(255, 255, 255);
 }
-ul.courseSidebar-nav li{
-    padding:30px;
+.courseSidebar-nav{
+    list-style: none;
+    width: 25%;
+}
+.courseSidebar-wrapper{
+	    position: fixed;
+    top: 25em;
+    z-index: 1;
+
 }
