@@ -568,7 +568,7 @@ margin-top: 15px;
     margin-top: 8px;
 }
 .courseSidebar-nav{
-    list-style-type:none;
+    list-style-type:none !important;
 }
 ul.courseSidebar-nav li{
     padding:30px;
