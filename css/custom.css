@@ -574,10 +574,9 @@ ul.courseSidebar-nav li {
 }
 .courseSidebar-nav{
     list-style: none;
-    width: 25%;
 }
 .courseSidebar-wrapper{
-osition: fixed;
+position: fixed;
     top: 25em;
     z-index: 1;
 
